@@ -1,0 +1,10 @@
+
+.imagecard{
+    margin: 1rem .5rem;
+    cursor: pointer;
+}
+.imagecard img{
+    height: 20rem;
+    width: 20rem;
+    border-radius: 1rem;
+}
